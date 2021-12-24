@@ -4,6 +4,9 @@
 This app is based on zomato's dataset of various restraunts, for detailed documentation of this dataset refer to the link below
 https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
+## This app is live at:
+### https://share.streamlit.io/beingkarnage/restraunt-rating-prediction-app/main/app.py
+
 ## Installation :
 for running the app only
 pip install requirements.txt
