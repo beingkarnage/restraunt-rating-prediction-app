@@ -1,0 +1,4 @@
+# only for running the app
+pandas
+streamlit
+joblib
