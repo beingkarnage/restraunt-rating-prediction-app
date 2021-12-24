@@ -5,6 +5,7 @@ This app is based on zomato's dataset of various restraunts, for detailed docume
 https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 
 ## Installation :
+for running the app only
 pip install requirements.txt
 
 ## Use this app
@@ -14,5 +15,5 @@ streamlit run app.py
 
 ## Files
 new_zomato.csv : this dataset is present which is just a cleaned copy of original dataset for presentation purpose in app
-restraunt_rating_pipe.sav : XGBoost regressor model is stored with pipelines, refer to the python notebook for code
-
+restraunt_rating_pipe.zip : XGBoost regressor model zipped, is stored with pipelines, refer to the python notebook for code, unzip into the root directory
+restraunt-rating-prediction.ipynb : notebook of app, analysis, preprocessing, modeling, etc
